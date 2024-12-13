@@ -22,5 +22,5 @@ applications and contributing to open-source projects.
 - Tools: Git, VS Code, Docker
 
 ### 📫 How to reach me
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/liam-chapin-yang-50174b341
 - Email: liamchapinyang@gmail.com
